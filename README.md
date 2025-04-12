@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @krsnajani
-- 👀 I’m interested in quantum computing, cryptography and smart contracts
-- 🌱 I’m currently a student of law, but I let that not deter me from my passions
-- 💞️ I’m looking to collaborate on systems that enable accessible governance
-- Please reach me through !(my webiste)[https://krishnaj.space]
-- 😄 Pronouns: he/him
+- I'm a currently studying law, but maintain a passion for technology
+- My research in this regard revolves around quantum computing, cryptography and blockchain technologies and thier intersection with law. 
+- Looking to collaborate on systems that enable citizen-focussed governance
+- Connect with me @ (krishnaj.space)[https://krishnaj.space]
 
 <!---
 krsnajani/krsnajani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
